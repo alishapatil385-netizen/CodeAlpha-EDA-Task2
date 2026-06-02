@@ -39,11 +39,3 @@ Total Records: 1000
 - Price distribution was analyzed using descriptive statistics
 - Most common ratings were identified
 
-## Files Included
-- EDA_Books_Dataset.ipynb
-- books_dataset.xlsx
-- Screenshots
-- README.md
-
-## Author
-Alisha Patil
